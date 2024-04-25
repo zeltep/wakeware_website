@@ -1,0 +1,56 @@
+.searchBar {
+  display: flex;
+  justify-content: center;
+}
+
+.searchBar input {
+    margin-left: .5em;
+}
+
+.homeView { 
+  display: flex;
+  justify-content: center;
+}
+
+.homeView > div {
+  width: 100%;
+  max-width: 900px;
+}
+
+.introMessage {
+    max-width: 600px;
+}
+
+----
+
+.projectList {
+    margin-top: 2em;
+    background-color: rgb(0, 0, 0, 0.1);
+    min-height: 70vh;
+}
+
+.projectItem {
+    width: 60%;
+    padding: .5em;
+    background-color: rgb(0, 0, 0, 0.2);
+    box-sizing: border-box;
+}
+
+.projectTitle {
+    display: flex;
+    gap: 1em;
+}
+
+#project-link {
+    font-size: .95em;
+    color: red;
+}
+
+.projectMeta {
+    font-size: .8em;
+}
+
+.projectMetaSeparator {
+    margin-left: .5em;
+    margin-right: .5em;
+}

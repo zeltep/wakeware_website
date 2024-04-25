@@ -1,0 +1,30 @@
+.newsView {
+    display: flex;
+    justify-content: center;
+}
+
+.newsView > div {
+    max-width: 900px;
+    width: 100%;
+}
+
+.newsTitle {
+    margin-top: 2em;
+    background-color: rgb(0, 0, 0, 0.2);
+    padding: .5em;
+}
+
+.newsTitle > h2 {
+    margin: 0;
+}
+
+.newsBody {
+    background-color: rgb(0, 0, 0, 0.1);
+    font-size: 1.1em;
+    padding: .5em;
+}
+
+.newsBody > div {
+    width: 100%;
+}
+

@@ -1,0 +1,32 @@
+.headerNav {
+    display: flex;
+    gap: 2em;
+    justify-content: left;
+    align-items: flex-end;
+    padding: .25em;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    font-size: 1.1em;
+}
+
+.headerLogo {
+    font-size: 5px;
+    font-weight: 800;
+}
+
+.headerLogo > a {
+    text-decoration: none;
+}
+
+.headerSearch {
+  display: flex;
+  justify-content: center;
+}
+
+.headerSearch input {
+    margin-left: .5em;
+}
+
+.headerLinks {
+    display: flex;
+}
