@@ -4,7 +4,7 @@ A website dedicated to sharing projects created by the Wake Forest Computer Scie
 
 ## Table of contents
 
-* [Client](#markdown-header-wakeware-client)
+* [Client](#wakeware-client)
 
 ## WakeWare client
 The client is built in [React](https://react.dev) using the [Vite](https://vitejs.dev) toolset for building
