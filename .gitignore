@@ -1,0 +1,24 @@
+# Logs
+wakeware_client/logs
+wakeware_client/*.log
+wakeware_client/npm-debug.log*
+wakeware_client/yarn-debug.log*
+wakeware_client/yarn-error.log*
+wakeware_client/pnpm-debug.log*
+wakeware_client/lerna-debug.log*
+
+wakeware_client/node_modules
+wakeware_client/dist
+wakeware_client/dist-ssr
+wakeware_client/*.local
+
+# Editor directories and files
+wakeware_client/.vscode/*
+wakeware_client/!.vscode/extensions.json
+wakeware_client/.idea
+wakeware_client/.DS_Store
+wakeware_client/*.suo
+wakeware_client/*.ntvs*
+wakeware_client/*.njsproj
+wakeware_client/*.sln
+wakeware_client/*.sw?
